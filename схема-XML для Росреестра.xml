@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Extract xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ReestrExtract>
+		<DeclarAttribute RequeryDate="13.01.2016" RequeryNumber="90-137..."/>
+		<ExtractObjectRight>
+			<HeadContent>
+				<Content>На основании запроса №90-137...</Content>
+			</HeadContent>
+			<ExtractObject>
+				<ObjectRight>
+					<ObjectDesc>
+						<CadastralNumber>15:09:0220...</CadastralNumber>
+						<Area>
+							<Area>48.1</Area>
+						</Area>
+						<Address>
+							<City Name="Владикавказ"/>
+							<Street Name="Куйбышева" Type="ул"/>
+							<Level1 Name="1"/>
+							<Level2 Name="1"/>
+							<Apartment Name="1"/>
+						</Address>
+					</ObjectDesc>
+					<Right>
+						<Owner>
+							<Person>
+								<Content>Рита Лазаро...</Content>
+								<Document>
+									<Content>008001001000, серия:90 03, номер №5042...</Content>
+								</Document>
+							</Person>
+							<Governance>
+								<Content>Муниципальное образование</Content>
+							</Governance>
+						</Owner>
+						<Registration>
+							<Name>Собственность 15-15-01/20...</Name>
+							<RegDate>26.12.2014</RegDate>
+						</Registration>
+					</Right>
+				</ObjectRight>
+			</ExtractObject>
+		</ExtractObjectRight>
+		<NoticelObj>
+			<NoticeObj>
+				<ObjectDetail>
+					<ObjectAddress>
+						<Content>Республика Северная Осетия-Алания, г.Владикавказ, Весенняя ул., ...</Content>
+					</ObjectAddress>
+				</ObjectDetail>
+			</NoticeObj>
+		</NoticelObj>
+	</ReestrExtract>
+</Extract>
